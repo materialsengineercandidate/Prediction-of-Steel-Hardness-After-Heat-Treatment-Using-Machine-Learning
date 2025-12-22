@@ -1,6 +1,6 @@
 # Machine Learning–Based Prediction of Steel Hardness After Heat Treatment
 
-This project predicts the final hardness (HRC) of steels using
+This project predicts the final hardness (HRC) of AISI–SAE 1026 steel using
 tempering temperature, tempering time, and chemical composition.
 
 ## Methods
