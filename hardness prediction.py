@@ -66,7 +66,7 @@ log = logging.getLogger(__name__)
 @dataclass
 class Config:
 
-    base_path: str = r"C:\Users\Ayberk\Desktop\isilislem data"
+    base_path: str = r"C:\Users\Desktop\isilislem data"
 
     input_file: str = "raw_tempering_data.csv"
 
